@@ -602,6 +602,10 @@ footer .social a:hover {
     margin-top: var(--header-height);
   }
 
+  .logo {
+    font-size: 1.3rem;
+  }
+
   /* home */
   #home .container {
     grid-auto-flow: column;
